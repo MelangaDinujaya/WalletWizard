@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WalletWizard</string>
+    <string name="add_btn">+</string>
+    <string name="sub_btn">-</string>
+    <string name="bal_btn">Balance</string>
+    <string name="balance">Account Balance</string>
+    <string name="bal">RS4000.00</string>
+    <string name="incomebtn">Income</string>
+    <string name="expencebtn">Expense</string>
+    <string name="spend">Spend Frequency</string>
+    <string name="homebtn">Home</string>
+    <string name="profile">Profile</string>
+    <string name="isights">Insights</string>
+    <string name="Choosecategory">Choose Category</string>
+    <string name="newexback">New Expense</string>
+    <string name="addnote">Add Note</string>
+    <string name="balace">0.00</string>
+    <string name="date">sun,19 March</string>
+    <string name="home">Home</string>
+    <string name="pets">Pets</string>
+    <string name="rs">RS500.00</string>
+    <string name="rs2">RS3000.00</string>
+    <string name="balex">RS9000.00</string>
+    <string name="Salary">Salary</string>
+    <string name="salval">100000.00</string>
+    <string name="categories">Categories</string>
+    <string name="caragry">Edit Category</string>
+
+</resources>
